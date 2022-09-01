@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub
+</br>
+</br>
+My name is Marvin and I am currently mostly working on University tasks and small personal projects. The latter can be found here.
+</br>
+My main interest is Cyber Security and most topics surrounding it. </br>
+
+ <script src="https://tryhackme.com/badge/214385"></script>
 
 <!--
 **MSinnwell/MSinnwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
