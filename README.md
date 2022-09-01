@@ -3,7 +3,7 @@
 </br>
 My name is Marvin and I am currently mostly working on University tasks and small personal projects. The latter can be found here.
 </br>
-My main interest is Cyber Security and most topics surrounding it. </br>
+My main interest is Cyber Security and most topics surrounding it. </br> </br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kreskeres.png" alt="TryHackMe">
 <!--
