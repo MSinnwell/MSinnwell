@@ -5,8 +5,7 @@ My name is Marvin and I am currently mostly working on University tasks and smal
 </br>
 My main interest is Cyber Security and most topics surrounding it. </br>
 
- <script src="https://tryhackme.com/badge/214385"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kreskeres.png" alt="TryHackMe">
 <!--
 **MSinnwell/MSinnwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
